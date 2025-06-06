@@ -100,8 +100,6 @@ You can view the final training performance and a demo of the trained agent here
 
 ![DQN Agent in LunarLander-v2](./demo/lunarlander_demo.gif)
 
-These will be uploaded after training is complete.
-
 ---
 
 ## 📚 Want to Learn More About the Environment?

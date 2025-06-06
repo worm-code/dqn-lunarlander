@@ -89,6 +89,13 @@ This will:
 - Run one episode of `LunarLander-v2` with human rendering
 - Print the total reward the agent achieved
 
+> ⚠️ **Remember!**  
+> If you want to check your own RL agent, **don’t forget to modify the path to your trained model** through the following variable:
+
+```python
+model_weight_path = r'lunar_lander_model.h5'
+```
+
 ---
 
 ## 📊 Final Results

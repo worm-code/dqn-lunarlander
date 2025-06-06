@@ -97,6 +97,7 @@ You can view the final training performance and a demo of the trained agent here
 
 - Training Curve: ./training_curve.png
 - Final Result GIF:
+
 ![DQN Agent in LunarLander-v2](./demo/lunarlander_demo.gif)
 
 These will be uploaded after training is complete.
